@@ -13,4 +13,5 @@ void draw(){
   background(0);
   circle(mouseX,mouseY,rad);
   rect(490,0,rectx,recty);
+  circle(mouseX+500,mouseY,rad);
 }
