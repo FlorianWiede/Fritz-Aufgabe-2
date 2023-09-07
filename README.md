@@ -1,0 +1,1 @@
+# Fritz-Aufgabe-2
