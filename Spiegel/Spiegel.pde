@@ -1,4 +1,7 @@
 float rad = 20;
+float rectx = 20;
+float recty=600;
+
 
 
 void setup(){
@@ -9,5 +12,5 @@ void setup(){
 void draw(){
   background(0);
   circle(mouseX,mouseY,rad);
-  rect(490,0,20,600);
+  rect(490,0,rectx,recty);
 }
